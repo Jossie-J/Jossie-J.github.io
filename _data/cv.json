@@ -91,28 +91,15 @@
         "Python",
         "MATLAB",
         "SQL",
-        "Data analysis",
-        "Visualization"
+        "Java"
       ]
     },
     {
       "name": "Geospatial and remote sensing tools",
       "level": "",
       "keywords": [
-        "GIS",
-        "Spatial analysis",
-        "Remote sensing data processing"
-      ]
-    },
-    {
-      "name": "Research and technical interests",
-      "level": "",
-      "keywords": [
-        "Data mining",
-        "Urban computing",
-        "Human activity analysis",
-        "Information systems",
-        "Big and unstructured data methods"
+        "ArcGIS, QGIS",
+        "Google Earth Engine"
       ]
     }
   ],
@@ -123,7 +110,7 @@
     },
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "professional working proficiency"
     },
     {
       "language": "Italian",

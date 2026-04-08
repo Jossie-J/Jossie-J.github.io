@@ -89,21 +89,13 @@ Skills
   * Python
   * MATLAB
   * SQL
-  * Data analysis and visualization
+  * Java
 
 * **Geospatial and remote sensing tools**
-  * GIS
-  * Spatial analysis
-  * Remote sensing data processing
-
-* **Research and technical interests**
-  * Data mining
-  * Urban computing
-  * Human activity analysis
-  * Information systems
-  * Big and unstructured data methods
+  * ArcGIS、QGIS
+  * Google Earth Engine
 
 * **Languages**
   * Chinese (native)
-  * English
+  * English（professional working proficiency）
   * Italian (basic/intermediate learning stage)
