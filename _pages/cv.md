@@ -21,9 +21,9 @@ Education
 
 Research Interests
 ======
-* Urban activity analysis and spatial-temporal pattern mining
-* AI for spatial data analysis
-* Human activity modeling from spatial data
+* AI for Science
+* Agent-based Data-driven System Design
+* Human activity modeling from spatial-temporal data
 
 Work experience
 ======
