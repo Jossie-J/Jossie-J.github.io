@@ -16,13 +16,11 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
-  * _portfolio/
   * _posts/
-  * _teaching/
-  * _talks/
+  (Note: _portfolio/, _teaching/, and _talks/ are currently hidden from navigation)
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.JPG
 
 ## Tips and hints
 
@@ -38,7 +36,7 @@ redirect_from:
   * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
 
 * While GitHub Pages prevents server side code from running, client-side scripts are supported.
-  * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
+  * This means that Google Analytics is supported, and [the wiki](https://github.com/Jossie-J/Jossie-J.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
 
 * Your CV can be written using either Markdown ([preview](https://Jossie-J.github.io/cv/)) or generated via JSON ([preview](https://Jossie-J.github.io/cv-json/)) and the layouts are slightly different. You can update the path to the one being used in `_data/navigation.yml` with the JSON formatted CV being hidden by default.
 

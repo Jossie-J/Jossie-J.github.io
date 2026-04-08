@@ -1,152 +1,196 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jiaxun Jiang",
+    "email": "jiaxun.jiang@mail.polimi.it",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://Jossie-J.github.io",
+    "summary": "M.Sc. student in Geoinformatics Engineering with interests in GIS, remote sensing, spatial data analysis, urban analytics, and AI for geospatial applications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "China/Italy",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Jossie-J",
+        "url": "https://github.com/Jossie-J"
+      },
+      {
+        "network": "Instagram",
+        "username": "jocelyn_jiang_",
+        "url": "https://instagram.com/jocelyn_jiang_"
+      },
+      {
+        "network": "Telegram",
+        "username": "Jossie_Jiang",
+        "url": "https://t.me/Jossie_Jiang"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Head Office of Changsha Bank",
+      "position": "Data Product Development Intern",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Technology Department",
+      "highlights": [
+        "Participated in data product development in a financial technology context.",
+        "Contributed to product-related analysis and practical data application tasks.",
+        "Received a full-time conversion offer after the internship."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Hongkong University",
+      "area": "AI for Social Systems",
+      "studyType": "Ph.D",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027 (expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Politecnico di Milano",
+      "area": "Geoinformatics Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2024",
+      "endDate": "Present",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "GIS",
+        "Remote sensing",
+        "Spatial data analysis",
+        "Urban analytics",
+        "Data mining",
+        "AI for geospatial applications"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Nanning Normal University",
+      "area": "Computer Science and Technology",
+      "studyType": "B.Eng.",
+      "startDate": "2020",
+      "endDate": "2024",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Graduated with the title of Excellent Graduate",
+        "Graduation thesis: Financial Data Analysis and IPO Forecasting for Small and Micro Enterprises"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Programming and data analysis",
+      "level": "",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "SQL",
+        "Data analysis",
+        "Visualization"
+      ]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Geospatial and remote sensing tools",
+      "level": "",
+      "keywords": [
+        "GIS",
+        "Spatial analysis",
+        "Remote sensing data processing"
+      ]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Research and technical interests",
+      "level": "",
+      "keywords": [
+        "Data mining",
+        "Urban computing",
+        "Human activity analysis",
+        "Information systems",
+        "Big and unstructured data methods"
+      ]
     }
   ],
-  "presentations": [
+  "languages": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "language": "Chinese",
+      "fluency": "Native"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "language": "English",
+      "fluency": "Professional working proficiency"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "language": "Italian",
+      "fluency": "Basic to intermediate"
     }
   ],
-  "teaching": [
+  "interests": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "name": "Research Interests",
+      "keywords": [
+        "Urban activity analysis and spatial-temporal pattern mining",
+        "AI for spatial data analysis",
+        "Human activity modeling from spatial data"
+      ]
     }
   ],
-  "portfolio": [
+  "references": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Honors and awards",
+      "reference": "Excellent Graduate; District-level First Prize in Speech Contest; Outstanding Communist Youth League Member; Outstanding Communist Youth League Cadre; Outstanding Student Cadre; Multiple awards in speech and classic reading competitions"
+    },
+    {
+      "name": "Leadership and service",
+      "reference": "Head of the Outreach Department, Student Union, Nanning Normal University; Secretary of the Youth League Branch, Class 2, Computer Science and Technology, Grade 2020; Group Leader, China-International Fireworks Culture Festival"
     }
-  ]
+  ],
+  "projects": [
+    {
+      "name": "Spatiotemporal Analysis of Nighttime Light Dynamics in Hubei Province",
+      "description": "Conducted large-scale analysis of nighttime light datasets and built a spatiotemporal workflow to reveal urban activity dynamics and regional inequality patterns.",
+      "highlights": [
+        "Analyzed DMSP-like 1km nighttime light datasets from 2019 to 2023.",
+        "Designed preprocessing, normalization, and temporal trend extraction pipeline.",
+        "Applied growth rate, variance, and spatial comparison metrics.",
+        "Produced maps and temporal curves for visual interpretation."
+      ]
+    },
+    {
+      "name": "Intelligent Crop Growth Prediction System (Spatial AI Application)",
+      "description": "Developed a crop prediction pipeline combining remote sensing, GPS, and environmental data for spatial AI modeling.",
+      "highlights": [
+        "Performed multi-source spatial data fusion and feature extraction.",
+        "Built machine learning models for crop growth prediction.",
+        "Completed end-to-end workflow from preprocessing to evaluation.",
+        "Gained deployment experience on real-world geospatial datasets."
+      ]
+    },
+    {
+      "name": "Financial Data Analysis and IPO Forecasting for Small and Micro Enterprises",
+      "description": "Built predictive models on enterprise financial data to estimate IPO likelihood and improve robustness across methods.",
+      "highlights": [
+        "Conducted feature engineering and statistical analysis.",
+        "Applied classification and regression approaches.",
+        "Evaluated with metrics such as accuracy and precision."
+      ]
+    },
+    {
+      "name": "Yoga Website UI/UX Design Project",
+      "description": "Designed a yoga website prototype and interaction flows in Figma.",
+      "highlights": [
+        "Created user-oriented interface design materials.",
+        "Developed interaction scenarios and prototype behavior."
+      ]
+    }
+  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
