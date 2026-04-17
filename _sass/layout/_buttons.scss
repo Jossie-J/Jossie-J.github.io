@@ -105,6 +105,17 @@
     }
   }
 
+  /* CV download button */
+
+  &--cv-dark {
+    color: #fff !important;
+    background-color: #3a3a3a;
+
+    &:hover {
+      background-color: #1f1f1f;
+    }
+  }
+
   /* disabled */
 
   &--disabled {

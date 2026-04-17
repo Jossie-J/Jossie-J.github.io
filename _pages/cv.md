@@ -10,10 +10,6 @@ redirect_from:
 {% include base_path %}
 You can view my CV directly below, or download the PDF.
 
-<a href="{{ base_path }}/files/Jiaxun_Jiang%20CV-CS.pdf" class="btn btn--primary" download>
-  Download CV (PDF)
-</a>
-
 <div style="margin-top: 1rem;">
   <iframe
     src="{{ base_path }}/files/Jiaxun_Jiang%20CV-CS.pdf"
@@ -22,6 +18,12 @@ You can view my CV directly below, or download the PDF.
     style="border: 1px solid #ddd; border-radius: 6px;"
     title="Jiaxun Jiang CV PDF">
   </iframe>
+</div>
+
+<div style="margin-top: 1rem;">
+  <a href="{{ base_path }}/files/Jiaxun_Jiang%20CV-CS.pdf" class="btn btn--cv-dark" download>
+    Download CV (PDF)
+  </a>
 </div>
   
 

@@ -22,6 +22,5 @@ I am currently seeking opportunities to further develop my research and collabor
 
 🎉Ongoing research:
 
-• Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
-
-• Exploring a multi-module fairness learning framework based on large language models (LLMs).
+* **Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
+* **Exploring a multi-module fairness learning framework based on large language models (LLMs).
