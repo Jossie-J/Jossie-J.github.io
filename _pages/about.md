@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,93 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in AI for Social Systems, Hongkong University, 2027 (expected)
-* **M.Sc. in Geoinformatics Engineering**, Politecnico di Milano, Italy, 2024–Present
-  * Relevant interests: GIS, remote sensing, spatial data analysis, urban analytics, data mining, and AI for geospatial applications
+**Hi👋!**
+**My name is Jossie Jiaxun Jiang (蒋佳迅).**
 
-* **B.Eng. in Computer Science and Technology**, Nanning Normal University, China, 2020–2024
-  * Graduated with the title of **Excellent Graduate**
-  * Graduation thesis: **Financial Data Analysis and IPO Forecasting for Small and Micro Enterprises**
+I am currently a Master’s student in Geoinformatics Engineering at Politecnico di Milano, where I am working on my thesis in the area of AI and Computational Social Science under the supervision of [Prof. Francesco Pierri](https://pierri.faculty.polimi.it). Meanwhile, I am also involved in a research project supervised by [Prof. Daniele Oxoli](https://www.researchgate.net/profile/Daniele-Oxoli-2), focusing on geospatial data analysis and environmental dynamics. 
 
-Research Interests
-======
-* AI for Science
-* Agent-based Data-driven System Design
-* Human activity modeling from spatial-temporal data
+Previously, I completed my undergraduate degree in Computer Science and Technology at Nanning Normal University, where I developed a strong foundation in data analysis and machine learning. I have also gained industry experience as a data product development intern at Changsha Bank, working on data-driven applications in financial scenarios.
 
-Work experience
-======
-* **Data Product Development Intern**, Technology Department, Head Office of Changsha Bank, China
-  * Participated in data product development work in the financial technology context
-  * Contributed to product-related analysis and practical data application tasks
-  * Received a full-time conversion offer after the internship
+My research interests lie in geospatial data science, computational social science, and data-driven modeling of complex systems. Positioned at the intersection of spatial data, AI, and socio-economic analysis, I focus on understanding how large-scale spatiotemporal data can be used to capture human activity patterns and environmental dynamics. I am particularly interested in integrating remote sensing, machine learning, and statistical methods to study urban evolution, human behavior, and their interaction with environmental systems.
 
-Projects
-======
-* **Spatiotemporal Analysis of Nighttime Light Dynamics in Hubei Province**
-  * Conducted large-scale analysis of nighttime light datasets (DMSP-like, 1km resolution, 2019–2023) to model human activity dynamics
-  * Designed a spatiotemporal analysis pipeline including data preprocessing, normalization, and temporal trend extraction
-  * Applied statistical indicators (e.g., growth rate, variance) and spatial comparison methods to quantify regional development patterns
-  * Identified heterogeneous growth patterns across cities and regions, revealing spatial inequality and temporal evolution trends
-  * Produced visual analytics (maps, temporal curves) to support interpretation of urban activity and socio-economic dynamics
+I am currently seeking opportunities to further develop my research and collaborate with supervisors whose interests align with AI, geospatial data science, and socio-economic data analysis.
 
+🎉Ongoing research:
 
-* **Intelligent Crop Growth Prediction System (Spatial AI Application)**
-  * Developed a data-driven crop prediction system integrating remote sensing imagery, GPS data, and environmental variables
-  * Performed multi-source spatial data fusion and feature extraction for agricultural modeling
-  * Built machine learning models to predict crop growth patterns and analyze environmental impact factors
-  * Designed end-to-end workflow including data preprocessing, feature engineering, model training, and evaluation
-  * Gained experience in deploying AI models on real-world geospatial and environmental datasets
+• Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
 
-
-* **Financial Data Analysis and IPO Forecasting for Small and Micro Enterprises**
-  * Built predictive models on structured enterprise financial datasets to estimate IPO likelihood
-  * Conducted feature engineering and statistical analysis to identify key influencing factors
-  * Applied classification/regression models and evaluated performance using quantitative metrics (e.g., accuracy, precision)
-  * Compared model performance across different approaches to improve prediction robustness
-  * Developed understanding of applying data-driven methods to socio-economic and financial systems
-
-  
-* **Yoga Website UI/UX Design Project**
-  * Designed a yoga website prototype using Figma
-  * Developed interaction scenarios and user-oriented interface design materials
-
-Honors and awards
-======
-* Excellent Graduate
-* District-level First Prize in Speech Contest
-* Outstanding Communist Youth League Member
-* Outstanding Communist Youth League Cadre
-* Outstanding Student Cadre
-* Multiple awards in speech and classic reading competitions
-
-Leadership and service
-======
-* **Head of the Outreach Department**, Student Union, Nanning Normal University
-  * Organized and coordinated student activities and external communication work
-
-* **Secretary of the Youth League Branch**, Class 2, Computer Science and Technology, Grade 2020
-
-* **Group Leader**, China-International Fireworks Culture Festival
-  * Served for two consecutive years in event organization and on-site service
-  * Responsible for team coordination, management, and service arrangements
-
-
-Skills
-======
-* **Programming and data analysis**
-  * Python
-  * MATLAB
-  * SQL
-  * Java
-
-* **Geospatial and remote sensing tools**
-  * ArcGIS、QGIS
-  * Google Earth Engine
-
-* **Languages**
-  * Chinese (native)
-  * English（professional working proficiency）
-  * Italian (basic/intermediate learning stage)
+• Exploring a multi-module fairness learning framework based on large language models (LLMs).
