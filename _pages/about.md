@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Hi👋Nice to meet you~**
-
-**My name is Jossie Jiaxun Jiang (蒋佳迅).**
+<p style="margin-bottom: 0.5em;"><strong>Hi👋Nice to meet you~</strong></p>
+<p style="margin-top: 0.5em;"><strong>My name is Jossie Jiaxun Jiang (蒋佳迅).</strong></p>
 
 I am currently a Master’s student in Geoinformatics Engineering at Politecnico di Milano, where I am working on my thesis in the area of AI and Computational Social Science under the supervision of [Prof. Francesco Pierri](https://pierri.faculty.polimi.it). Meanwhile, I am also involved in a research project supervised by [Prof. Daniele Oxoli](https://www.researchgate.net/profile/Daniele-Oxoli-2), focusing on geospatial data analysis and environmental dynamics. 
 
