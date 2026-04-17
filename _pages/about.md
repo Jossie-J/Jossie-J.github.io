@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Hi👋!**
+**Hi👋Nice to meet you~**
+
 **My name is Jossie Jiaxun Jiang (蒋佳迅).**
 
 I am currently a Master’s student in Geoinformatics Engineering at Politecnico di Milano, where I am working on my thesis in the area of AI and Computational Social Science under the supervision of [Prof. Francesco Pierri](https://pierri.faculty.polimi.it). Meanwhile, I am also involved in a research project supervised by [Prof. Daniele Oxoli](https://www.researchgate.net/profile/Daniele-Oxoli-2), focusing on geospatial data analysis and environmental dynamics. 
@@ -22,5 +23,5 @@ I am currently seeking opportunities to further develop my research and collabor
 
 🎉Ongoing research:
 
-* **Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
-* **Exploring a multi-module fairness learning framework based on large language models (LLMs).
+- Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
+- Exploring a multi-module fairness learning framework based on large language models (LLMs).
