@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a Master’s student in Geoinformatics Engineering at Politecnico di Milano, where I am working on my thesis in the area of AI and Computational Social Science under the supervision of [Prof. Francesco Pierri](https://pierri.faculty.polimi.it). Meanwhile, I am also involved in a research project supervised by [Prof. Daniele Oxoli](https://www.researchgate.net/profile/Daniele-Oxoli-2), focusing on geospatial data analysis and environmental dynamics.
 
-At the same time, I am working as a Visiting Student in [Prof. Pan Hui](https://panhui.people.ust.hk)’s [MC² Lab](https://mc2-lab.space) in the Computational Media and Arts (CMA) Area at HKUST(GZ), where my current responsibilities mainly involve large-scale data collection, preprocessing, cleaning, and supporting data-driven AI research workflows.
+At the same time, I am working as a Visiting Student in [Prof. Pan Hui](https://panhui.people.ust.hk)’s [MC² Lab](https://mc2-lab.space) in the Computational Media and Arts (CMA) Thrust Area at HKUST(GZ), where my current responsibilities mainly involve large-scale data collection, preprocessing, cleaning, and supporting data-driven AI research workflows.
 
 Previously, I completed my undergraduate degree in Computer Science and Technology at Nanning Normal University, where I developed a strong foundation in data analysis and machine learning. I have also gained industry experience as a data product development intern at Changsha Bank, working on data-driven applications in financial scenarios.
 
