@@ -4,7 +4,7 @@
     "email": "jiaxun.jiang@mail.polimi.it",
     "phone": "",
     "website": "https://Jossie-J.github.io",
-    "summary": "M.Sc. student in Geoinformatics Engineering with interests in GIS, remote sensing, spatial data analysis, urban analytics, and AI for geospatial applications.",
+    "summary": "M.Sc. student in Geoinformatics Engineering and Visiting Student in the MC² Lab at HKUST(GZ), with interests in GIS, remote sensing, spatial data analysis, urban analytics, and AI for geospatial applications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -41,6 +41,18 @@
         "Participated in data product development in a financial technology context.",
         "Contributed to product-related analysis and practical data application tasks.",
         "Received a full-time conversion offer after the internship."
+      ]
+    },
+    {
+      "name": "MC² Lab, HKUST(GZ)",
+      "position": "Visiting Student",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": "Computational Media and Arts (CMA) Area",
+      "highlights": [
+        "Worked on large-scale data collection, preprocessing, and cleaning.",
+        "Supported data-driven AI research workflows.",
+        "Collaborated on research activities under the supervision of Prof. Pan Hui."
       ]
     }
   ],

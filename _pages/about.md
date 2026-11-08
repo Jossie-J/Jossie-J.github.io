@@ -8,20 +8,30 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="margin-bottom: 0.5em;"><strong>Hi👋Nice to meet you~</strong></p>
-<p style="margin-top: 0.5em;"><strong>My name is Jossie Jiaxun Jiang (蒋佳迅).</strong></p>
+Hi, thanks for stopping by! I'm **Jiaxun (Jossie) Jiang (蒋佳迅)**.
 
-I am currently a Master’s student in Geoinformatics Engineering at Politecnico di Milano, where I am working on my thesis in the area of AI and Computational Social Science under the supervision of [Prof. Francesco Pierri](https://pierri.faculty.polimi.it). Meanwhile, I am also involved in a research project supervised by [Prof. Daniele Oxoli](https://www.researchgate.net/profile/Daniele-Oxoli-2), focusing on geospatial data analysis and environmental dynamics.
+I am an MSc student in **Geoinformatics Engineering at Politecnico di Milano** and a visiting student in the [MC² Lab](https://mc2.hkust-gz.edu.cn/people) at **The Hong Kong University of Science and Technology (Guangzhou)**. I received my bachelor's degree in Computer Science and Technology from Nanning Normal University and previously worked as a data product development intern at Changsha Bank.
 
-At the same time, I am working as a Visiting Student in [Prof. Pan Hui](https://panhui.people.ust.hk)’s [MC² Lab](https://mc2-lab.space) in the Computational Media and Arts (CMA) Thrust Area at HKUST(GZ), where my current responsibilities mainly involve large-scale data collection, preprocessing, cleaning, and supporting data-driven AI research workflows.
+My research brings together **geospatial data science, computational social science, and AI**. I study where wildfire damage is concentrated, how early rebuilding activity varies across neighborhoods, and how people express concerns about environmental policies online. Across these projects, I work with satellite imagery, administrative records, and social media data.
 
-Previously, I completed my undergraduate degree in Computer Science and Technology at Nanning Normal University, where I developed a strong foundation in data analysis and machine learning. I have also gained industry experience as a data product development intern at Changsha Bank, working on data-driven applications in financial scenarios.
+## Selected Publication
 
-My research interests lie in geospatial data science, computational social science, and data-driven modeling of complex systems. Positioned at the intersection of spatial data, AI, and socio-economic analysis, I focus on understanding how large-scale spatiotemporal data can be used to capture human activity patterns and environmental dynamics. I am particularly interested in integrating remote sensing, machine learning, and statistical methods to study urban evolution, human behavior, and their interaction with environmental systems.
+**Spatial Heterogeneity of Platform-Expressed Concerns about Environmental Policy Implementation: Evidence from China’s Crop-Residue Burning Restrictions**
 
-I am currently seeking opportunities to further develop my research and collaborate with supervisors whose interests align with AI, geospatial data science, and socio-economic data analysis.
+*Environmental Impact Assessment Review* · **Accepted (2026)** · Second author
 
-🎉Ongoing research:
+## Research & Projects
 
-- Developing a Python toolbox for land cover fraction analysis and forest cover dynamics.
-- Exploring a multi-module fairness learning framework based on large language models (LLMs).
+**MSc thesis · 2025 Los Angeles wildfires**
+
+I have finalized my thesis, *From Structure Loss to Early Rebuilding: Spatial Damage Disparities in the 2025 Los Angeles Fires and Permit Entry after the Eaton Fire*, under the supervision of [Prof. Daniele Oxoli](https://www.dica.polimi.it/en/il-dipartimento/persone/docenti/daniele.oxoli/) (advisor) and [Prof. Pan Hui](https://panhui.people.ust.hk/) (co-advisor). I plan to defend it in December 2026. The thesis examines residential destruction across the Eaton and Palisades fires and uses the first applications recorded in the county permit system after the Eaton Fire to track early administrative activity on severely damaged residential parcels.
+
+**Wildfire recovery monitoring · Manuscript in preparation**
+
+Building on my thesis, I am investigating which application milestones can be compared across city and county permit systems for the Eaton and Palisades fires. Where the records support comparison, I plan to test whether models of first application timing transfer between fires and whether they help identify heavily damaged areas for follow-up.
+
+**Land-cover and forest dynamics · Completed project**
+
+I co-developed a Python toolbox with Xinchen Yu, supervised by Prof. Daniele Oxoli, to make the analysis of land-cover fractions and changes in forest cover reproducible.
+
+I’m happy to connect with others working on environmental policy, disaster recovery, and spatial data science.
