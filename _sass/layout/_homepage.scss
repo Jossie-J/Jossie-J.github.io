@@ -1,0 +1,223 @@
+.page.homepage {
+  @include breakpoint($large) {
+    max-width: 950px;
+    padding-right: 0;
+  }
+
+  --homepage-link: #236278;
+  --homepage-meta: #4d575e;
+  --homepage-rule: #d8dde1;
+  --homepage-ongoing-bg: #e7f1fa;
+  --homepage-ongoing-text: #214c73;
+  --homepage-accepted-bg: #e4f3e9;
+  --homepage-accepted-text: #235539;
+  --homepage-completed-bg: #edf0f2;
+  --homepage-completed-text: #3c454d;
+
+  .page__content {
+    font-size: 16px;
+    line-height: 1.7;
+
+    a {
+      color: var(--homepage-link);
+      text-underline-offset: 0.17em;
+    }
+
+    a:hover {
+      text-decoration-thickness: 2px;
+    }
+
+    a:focus-visible,
+    summary:focus-visible {
+      outline: 2px solid var(--homepage-link);
+      outline-offset: 3px;
+    }
+
+    h1,
+    h2 {
+      margin: 0 0 1rem;
+      font-size: 27px;
+      line-height: 1.25;
+    }
+  }
+}
+
+html[data-theme="dark"] .page.homepage {
+  --homepage-link: #a3dff0;
+  --homepage-meta: #e0e5e9;
+  --homepage-rule: #71767b;
+  --homepage-ongoing-bg: #2b4258;
+  --homepage-ongoing-text: #cce6ff;
+  --homepage-accepted-bg: #294536;
+  --homepage-accepted-text: #cbf1d6;
+  --homepage-completed-bg: #3a3d41;
+  --homepage-completed-text: #edf0f2;
+}
+
+.homepage .page__content p {
+  margin: 0 0 0.85rem;
+}
+
+.homepage-intro {
+  max-width: 72ch;
+}
+
+.homepage-section {
+  margin-top: 3rem;
+}
+
+.homepage [id] {
+  scroll-margin-top: 5.5rem;
+}
+
+#research.homepage-section {
+  container-type: inline-size;
+}
+
+.homepage-project {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid var(--homepage-rule);
+
+  &:first-of-type {
+    padding-top: 0.5rem;
+  }
+
+  &:last-of-type {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+
+  h3 {
+    margin: 0.45rem 0 0.35rem;
+    font-size: 21px;
+    line-height: 1.35;
+  }
+
+  p.homepage-project__meta {
+    color: var(--homepage-meta);
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.65rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@container (min-width: 640px) {
+  .homepage-project {
+    grid-template-columns: clamp(220px, 26%, 240px) minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+.homepage-project__figure {
+  display: block;
+  width: 100%;
+  max-width: 28rem;
+  margin: 0;
+
+  figcaption {
+    margin: 0.45rem 0 0;
+    color: var(--homepage-meta);
+    font-size: 0.75rem;
+    line-height: 1.45;
+  }
+
+  figcaption a {
+    border: 0;
+  }
+}
+
+.homepage-project__image {
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border: 1px solid var(--homepage-rule);
+  border-radius: 11px;
+  background: #fff;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 0;
+    object-fit: contain;
+  }
+
+  &:hover img {
+    box-shadow: none;
+  }
+}
+
+.homepage-project__image--cover img {
+  object-fit: cover;
+  object-position: 50% 40%;
+}
+
+.homepage-project__status {
+  display: inline-block;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  background: var(--homepage-completed-bg);
+  color: var(--homepage-completed-text);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.4;
+
+  &--ongoing {
+    background: var(--homepage-ongoing-bg);
+    color: var(--homepage-ongoing-text);
+  }
+
+  &--accepted {
+    background: var(--homepage-accepted-bg);
+    color: var(--homepage-accepted-text);
+  }
+}
+
+.homepage-project__reference {
+  color: var(--homepage-meta);
+  font-size: 0.875rem;
+
+  summary {
+    width: fit-content;
+    cursor: pointer;
+  }
+
+  summary + p {
+    margin-top: 0.3rem;
+  }
+}
+
+.page__content .homepage-news {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: grid;
+    gap: 0.25rem 1rem;
+    padding: 0.65rem 0;
+
+    + li {
+      border-top: 1px solid var(--homepage-rule);
+    }
+
+    @media (min-width: 640px) {
+      grid-template-columns: 11rem minmax(0, 1fr);
+    }
+  }
+}
+
+.homepage-news__date {
+  color: var(--homepage-meta);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
