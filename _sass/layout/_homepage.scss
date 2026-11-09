@@ -11,6 +11,8 @@
   --homepage-ongoing-text: #214c73;
   --homepage-accepted-bg: #e4f3e9;
   --homepage-accepted-text: #235539;
+  --homepage-review-bg: #eee6fb;
+  --homepage-review-text: #523482;
   --homepage-completed-bg: #edf0f2;
   --homepage-completed-text: #3c454d;
 
@@ -50,6 +52,8 @@ html[data-theme="dark"] .page.homepage {
   --homepage-ongoing-text: #cce6ff;
   --homepage-accepted-bg: #294536;
   --homepage-accepted-text: #cbf1d6;
+  --homepage-review-bg: #493763;
+  --homepage-review-text: #efe2ff;
   --homepage-completed-bg: #3a3d41;
   --homepage-completed-text: #edf0f2;
 }
@@ -70,8 +74,25 @@ html[data-theme="dark"] .page.homepage {
   scroll-margin-top: 5.5rem;
 }
 
-#research.homepage-section {
+#research.homepage-section,
+#interests.homepage-section {
   container-type: inline-size;
+}
+
+.page__content .homepage-interests {
+  display: grid;
+  gap: 0.65rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    padding: 0.25rem 0 0.25rem 0.75rem;
+    border-left: 2px solid var(--homepage-rule);
+    font-weight: 600;
+    line-height: 1.45;
+  }
 }
 
 .homepage-project {
@@ -110,6 +131,10 @@ html[data-theme="dark"] .page.homepage {
 }
 
 @container (min-width: 640px) {
+  .page__content .homepage-interests {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .homepage-project {
     grid-template-columns: clamp(220px, 26%, 240px) minmax(0, 1fr);
     gap: 1.5rem;
@@ -179,6 +204,11 @@ html[data-theme="dark"] .page.homepage {
   &--accepted {
     background: var(--homepage-accepted-bg);
     color: var(--homepage-accepted-text);
+  }
+
+  &--review {
+    background: var(--homepage-review-bg);
+    color: var(--homepage-review-text);
   }
 }
 

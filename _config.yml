@@ -9,10 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Personal Website"
+title                    : "Jiaxun Jossie JIANG(蒋佳迅)"
+masthead_title_short     : "Jossie Jiang"
 title_separator          : "-"
-name                     : &name "Jiaxun JIANG"
-description              : &description "Jiaxun JIANG's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Jiaxun Jossie JIANG"
+description              : &description "Jiaxun Jossie Jiang — social sensing and explainable spatial analytics for urban governance, environmental policy, and disaster resilience."
 url                      : https://Jossie-J.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +25,7 @@ repository               : "Jossie-J/Jossie-J.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Jiaxun JIANG"
+  name             : "Jiaxun Jossie JIANG"
   pronouns         : # example: "she/her"  
   bio              : "Geoinformatics Engineering MSc(CS track)"
   location         : "China/Italy"

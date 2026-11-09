@@ -79,3 +79,22 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+.masthead__title-short {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .masthead__menu-item--lg {
+    padding-right: 0.5em;
+  }
+
+  .masthead__title-full {
+    display: none;
+  }
+
+  .masthead__title-short {
+    display: inline;
+    white-space: nowrap;
+  }
+}
