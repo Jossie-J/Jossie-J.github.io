@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <section id="about" class="homepage-intro" aria-labelledby="about-title">
-  <h1 id="about-title">About Me</h1>
-  <p>Hi, I’m <strong>Jiaxun Jossie JIANG (蒋佳迅)</strong>.</p>
+  <h1 id="about-title">Hi!</h1>
+  <p>I’m <strong>Jiaxun Jossie JIANG (蒋佳迅)</strong>.</p>
   <p>I am an MSc student in <strong>Geoinformatics Engineering at Politecnico di Milano</strong> and a visiting student in <a href="https://panhui.people.ust.hk/">Prof. Pan Hui</a>’s <a href="https://mc2.hkust-gz.edu.cn/people">MC² Lab</a> at <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong>. I work closely with <a href="https://pzhang.cn/">Pu Zhang</a> on social sensing and spatial analysis of environmental policy and urban service requests. My visit began in May 2026 and is scheduled to continue through December 2026.</p>
   <p>My research uses spatial data, digital traces, and administrative records to study how public concerns and urban conditions vary across places. I am interested in connecting computational social science with geospatial analysis to support urban governance and environmental decision-making.</p>
   <p>I have finalized my master’s thesis on the <strong>2025 Los Angeles wildfires</strong>, supervised by <a href="https://www.dica.polimi.it/en/il-dipartimento/persone/docenti/daniele.oxoli/">Prof. Daniele Oxoli</a> and co-supervised by <a href="https://panhui.people.ust.hk/">Prof. Pan Hui</a>, and plan to defend it in <strong>December 2026</strong>. I received my bachelor’s degree in Computer Science and Technology from Nanning Normal University.</p>
