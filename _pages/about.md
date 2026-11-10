@@ -106,7 +106,7 @@ redirect_from:
 </section>
 
 <section id="news" class="homepage-section" aria-labelledby="news-title">
-  <h2 id="news-title">News</h2>
+  <h2 id="news-title">🎉 News</h2>
   <ul class="homepage-news">
     <li>
       <span class="homepage-news__date">Upcoming · <time datetime="2026-12">Dec 2026</time></span>
