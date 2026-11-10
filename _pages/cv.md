@@ -12,7 +12,7 @@ You can view my CV directly below, or download the PDF.
 
 <div style="margin-top: 1rem;">
   <iframe
-    src="{{ base_path }}/files/Jiaxun_Jiang%20CV-CS.pdf"
+    src="{{ base_path }}/files/Jiaxun_Jiang_Academic_CV_2026-11-11.pdf"
     width="100%"
     height="1100"
     style="border: 1px solid #ddd; border-radius: 6px;"
@@ -21,7 +21,7 @@ You can view my CV directly below, or download the PDF.
 </div>
 
 <div style="margin-top: 1rem;">
-  <a href="{{ base_path }}/files/Jiaxun_Jiang%20CV-CS.pdf" class="btn btn--cv-dark" download>
+  <a href="{{ base_path }}/files/Jiaxun_Jiang_Academic_CV_2026-11-11.pdf" class="btn btn--cv-dark" download>
     Download CV (PDF)
   </a>
 </div>
