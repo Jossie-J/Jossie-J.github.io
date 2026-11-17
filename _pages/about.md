@@ -56,14 +56,14 @@ redirect_from:
       <figcaption>Spatial variation in policy equity concerns. Figure from the accepted manuscript.</figcaption>
     </figure>
     <div>
-      <span class="homepage-project__status homepage-project__status--accepted">Accepted</span>
-      <h3 id="crop-residue-policy-title">Public Concerns about Crop-Residue Burning Restrictions in China</h3>
-      <p class="homepage-project__meta"><cite>Environmental Impact Assessment Review</cite> · 2026 · Second author</p>
+      <span class="homepage-project__status homepage-project__status--accepted">Published online</span>
+      <h3 id="crop-residue-policy-title"><a href="https://www.sciencedirect.com/science/article/pii/S0195925526005007">Public Concerns about Crop-Residue Burning Restrictions in China</a></h3>
+      <p class="homepage-project__meta"><cite>Environmental Impact Assessment Review</cite> · Vol. 123 (Feb 2027) · Second author</p>
       <p>This study examines geographic variation in concerns expressed online about China’s crop-residue burning restrictions. It connects policy discussions with local conditions to inform environmental governance.</p>
       <p><strong>My role:</strong> I collected, cleaned, and organized the data, supported the research throughout the project, and wrote the initial manuscript draft.</p>
       <details class="homepage-project__reference">
         <summary>Paper details</summary>
-        <p><cite>Spatial Heterogeneity of Platform-Expressed Concerns about Environmental Policy Implementation: Evidence from China’s Crop-Residue Burning Restrictions</cite>. Accepted by <cite>Environmental Impact Assessment Review</cite> (2026).</p>
+        <p><cite>Spatial Heterogeneity of Platform-Expressed Concerns about Environmental Policy Implementation: Evidence from China’s Crop-Residue Burning Restrictions</cite>. <cite>Environmental Impact Assessment Review</cite>, 123, 108826 (2027). <a href="https://doi.org/10.1016/j.eiar.2026.108826">DOI</a>.</p>
       </details>
     </div>
   </article>
@@ -114,7 +114,7 @@ redirect_from:
     </li>
     <li>
       <time class="homepage-news__date" datetime="2026-11">Nov 2026</time>
-      <span>Our <a href="#crop-residue-policy">paper on platform-expressed concerns about crop-residue burning restrictions</a> was accepted by <cite>Environmental Impact Assessment Review</cite>.</span>
+      <span>Our <a href="https://www.sciencedirect.com/science/article/pii/S0195925526005007">paper on platform-expressed concerns about crop-residue burning restrictions</a> is now online in <cite>Environmental Impact Assessment Review</cite>.</span>
     </li>
     <li>
       <time class="homepage-news__date" datetime="2026-05">May 2026</time>
